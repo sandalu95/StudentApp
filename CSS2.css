@@ -1,0 +1,76 @@
+body{
+	background-color: #f7eff4 !important;
+}
+#mainDiv2{
+	 
+	border-radius: 10px;
+	margin: auto;
+	margin-top: -10px;
+	width:450px; 
+	height:450px;
+	display: grid;
+	grid-template-columns: 40% 60%;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+}
+.y{
+		display: grid;
+		grid-template-columns: 100% 100%;
+}
+#top{
+	text-align: center;
+	color: gray;
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif !important; 
+	font-size: 18px; 
+	font-weight: bold; 
+}
+
+input{
+	border-radius: 10px !important;
+	height: 30px !important;
+	width:71% !important;
+	margin-top: 20px !important;
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif  !important; 
+	font-size: 15px !important; 
+}
+p{
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif !important; 
+	font-size: 15px !important; 
+	color: black;
+	margin-top: 27px;
+	margin-left: 20px;
+}
+
+textarea{
+	border-radius: 10px;
+	height: 30px;
+	border-style: none;
+	width: 90%;
+	margin-top: 20px;
+	resize: none;
+}
+
+button{
+	width: 100px;
+	height: 40px;
+	padding: 5px;
+	margin-left: 130%;
+	border-radius: 10px !important;
+	border-style: none;
+	background: #c11d84;
+	color: white;
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif !important; 
+	font-size: 15px  !important; 
+	font-weight: bold  !important; 
+}
+
+#search{
+margin-left:40% ;
+margin-bottom: 20px;
+}
+
+#para{
+	font-weight: normal !important;
+	margin-right: 20px !important;
+}
